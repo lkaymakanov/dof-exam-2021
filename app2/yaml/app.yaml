@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: web-cont
-        image: %IMAGE-NAME%:%IMAGE-TAG%
+        image: lkaymakanov/dof-exam-2021:%IMAGE-PLACEHOLDER%
         ports:
         - containerPort: 80 
 ---
